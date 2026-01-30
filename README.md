@@ -51,11 +51,16 @@ Each folder inside the `projects` directory represents a **standalone Power BI p
 
 ---
 
-## 📊 Projects List
+## 📂 Power BI Portfolio Projects
 
-| Project Name | Description | Tools | Status |
-|-------------|------------|-------|--------|
-| **Spotify Streaming Analysis** | Analysis of Spotify streaming data to explore listening trends, top artists, and popular tracks using interactive dashboards. | Power BI, DAX, Excel | ✅ Completed |
+| Project Name | Business Domain | Description | Tools | Status |
+|-------------|----------------|-------------|-------|--------|
+| **Spotify Streaming Analysis** | Music Streaming Analytics | Analysis of streaming trends, top artists, popular songs, and user engagement metrics to uncover listening behavior patterns. | Power BI, DAX | ✅ Completed |
+| **Covid-19 Global Analysis** | Healthcare Analytics | Global analysis of COVID-19 cases, deaths, and recovery trends across countries and regions. | Power BI, DAX | ✅ Completed |
+| **Adidas Sales Dashboard** | Retail & Consumer Goods | Sales performance analysis for Adidas products focusing on revenue, regions, product categories, and profitability. | Power BI, DAX | ✅ Completed |
+| **Retail-Sales-Performance-Q1-2019** | Retail & Sales Analytics | Evaluation of retail sales performance during Q1 2019 with insights into monthly trends and sales distribution. | Power BI, DAX | ✅ Completed |
+| **Item-Sales-Performance-Analysis** | Sales & Operations Analytics | Item-level sales analysis highlighting total sales, quantity sold, profitability, and regional performance. | Power BI, DAX | ✅ Completed |
+|
 
 
 ---
